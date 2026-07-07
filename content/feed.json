@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-07-terremoto-de-magnitud-32-sacude-una-zona-del-país",
+    "title": "Terremoto de magnitud 3.2 sacude una zona del país",
+    "lead": "Un movimiento sísmico ha sido registrado con una magnitud de 3.2 en una localización específica",
+    "section": "Sucesos",
+    "date": "2026-07-07T22:10:21.707647+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nfjmu"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-07-avances-y-brechas-en-la-igualdad-de-género-en-españa",
     "title": "Avances y brechas en la igualdad de género en España",
     "lead": "El Día Internacional de la Mujer destaca los logros y desafíos en la lucha por la igualdad de género en España y la Unión Europea",
