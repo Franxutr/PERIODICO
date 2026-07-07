@@ -16,36 +16,28 @@ jobs:
   publicar:
     runs-on: ubuntu-latest
     steps:
-      - name: Descargar el repositorio
-        uses: actions/checkout@v4
-
-      - name: Preparar Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-
       - name: Instalar dependencias
-        working-directory: motor
         run: pip install -r requirements.txt
-
       - name: Ejecutar el motor
-        working-directory: motor
         env:
           AI_PROVIDER: groq
           AI_MODEL: llama-3.3-70b-versatile
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           PUBLISH_TARGET: files
-          OUTPUT_DIR: ../content/noticias
-          FEED_PATH: ../content/feed.json
+          OUTPUT_DIR: content/noticias
+          FEED_PATH: content/feed.json
           MIN_SOURCES: "2"
         run: python main.py
-
       - name: Guardar las noticias nuevas
         run: |
           git config user.name  "motor-al-corriente"
           git config user.email "motor@alcorriente.es"
-          git add content/ motor/periodico.db
+          git add -A
           if git diff --staged --quiet; then
             echo "Sin novedades en este ciclo."
           else
