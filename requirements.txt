@@ -5,6 +5,7 @@ python-dotenv>=1.0
 sentence-transformers>=2.2
 scikit-learn>=1.3
 beautifulsoup4>=4.12
-# Elige UNO de los dos SDK de IA según el proveedor que uses:
-anthropic>=0.34
-# openai>=1.40
+# SDK de IA. El de OpenAI vale para Groq (GRATIS), Gemini y OpenAI.
+openai>=1.40
+# Descomenta solo si usas Anthropic (de pago):
+# anthropic>=0.34

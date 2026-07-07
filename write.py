@@ -48,8 +48,9 @@ def _call_ai(prompt):
         )
         return msg.content[0].text
     else:
+        # Groq, Gemini y OpenAI comparten la API de OpenAI: solo cambia la URL base.
         from openai import OpenAI
-        client = OpenAI(api_key=config.OPENAI_API_KEY)
+        client = OpenAI(api_key=config.AI_API_KEY, base_url=config.AI_BASE_URL)
         r = client.chat.completions.create(
             model=config.AI_MODEL,
             messages=[{"role": "user", "content": prompt}],
