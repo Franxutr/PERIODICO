@@ -25,6 +25,10 @@ def main(dry_run=False):
     if not approved:
         print("Nada que redactar en este ciclo.")
         return
+    # Limita cuantas noticias se redactan por vuelta (respeta el nivel gratuito).
+    if len(approved) > config.MAX_ARTICLES_PER_RUN:
+        print(f"[main] {len(approved)} grupos; se redactan {config.MAX_ARTICLES_PER_RUN} en esta vuelta.")
+        approved = approved[:config.MAX_ARTICLES_PER_RUN]
     published, retained = 0, 0
     for group in approved:                # [3] redactar + verificar
         try:

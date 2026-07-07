@@ -37,8 +37,19 @@ ARTICULO:
 Devuelve SOLO un JSON: {{"verified": true/false, "issues": ["..."]}}
 """
 
+import time
+_last_call = [0.0]
+
+def _throttle():
+    """Espera lo justo entre llamadas para respetar el limite gratuito."""
+    wait = config.AI_MIN_INTERVAL - (time.time() - _last_call[0])
+    if wait > 0:
+        time.sleep(wait)
+    _last_call[0] = time.time()
+
 def _call_ai(prompt):
     """Llama al proveedor configurado. Devuelve texto."""
+    _throttle()
     if config.AI_PROVIDER == "anthropic":
         import anthropic
         client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY)

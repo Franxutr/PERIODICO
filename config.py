@@ -33,6 +33,10 @@ WP_DEFAULT_STATUS = os.getenv("WP_DEFAULT_STATUS", "draft")
 MIN_SOURCES = int(os.getenv("MIN_SOURCES", "2"))
 CLUSTER_SIMILARITY = float(os.getenv("CLUSTER_SIMILARITY", "0.62"))
 
+# Ritmo y volumen (para respetar el nivel gratuito de la IA)
+MAX_ARTICLES_PER_RUN = int(os.getenv("MAX_ARTICLES_PER_RUN", "12"))
+AI_MIN_INTERVAL = float(os.getenv("AI_MIN_INTERVAL", "2.2"))  # segundos entre llamadas
+
 # Fuentes de maxima autoridad: si aparece SOLO una de estas para su tema, se admite.
 AUTHORITATIVE = {
     "BOE": ["Legislacion", "Nombramientos"],
