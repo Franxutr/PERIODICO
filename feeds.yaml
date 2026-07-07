@@ -1,56 +1,40 @@
-# Fuentes del motor. Rellena 'url' con el RSS/API real de cada organismo.
-# Valida con feed_checker.py antes de activar. 'authority' marca fuentes de maxima autoridad.
-# Este archivo empieza con las nacionales; anade aqui las que sumes.
+# Fuentes reales y verificadas (RSS oficiales que responden a diario).
+# 'authority: true' = fuente de maxima autoridad: publica aunque sea unica fuente.
+# Ampliaremos con mas fuentes (regionales, AEMET, DGT...) mas adelante.
 
 feeds:
-  - name: BOE
-    org: Boletin Oficial del Estado
-    topic: Legislacion
+  - name: "BOE — Disposiciones generales"
+    org: "Boletin Oficial del Estado"
+    topic: "Nacional"
     authority: true
-    url: "https://www.boe.es/rss/canal.php?c=seccion1"   # VALIDAR
-  - name: La Moncloa
-    org: Presidencia del Gobierno
-    topic: Politica
-    authority: false
-    url: "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/Paginas/rss.aspx"  # VALIDAR
-  - name: INE
-    org: Instituto Nacional de Estadistica
-    topic: Datos
+    url: "https://www.boe.es/rss/boe.php?s=1"
+
+  - name: "BOE — Otras disposiciones"
+    org: "Boletin Oficial del Estado"
+    topic: "Nacional"
     authority: true
-    url: "https://www.ine.es/rss/rss_notas_prensa.xml"   # VALIDAR
-  - name: AEMET
-    org: Agencia Estatal de Meteorologia
-    topic: Tiempo
+    url: "https://www.boe.es/rss/boe.php?s=3"
+
+  - name: "BOE — Oposiciones y concursos"
+    org: "Boletin Oficial del Estado"
+    topic: "Empleo"
     authority: true
-    url: "API:AEMET_OPENDATA"   # usa la API de AEMET OpenData con clave gratuita
-  - name: DGT
-    org: Direccion General de Trafico
-    topic: Trafico
+    url: "https://www.boe.es/rss/boe.php?s=2B"
+
+  - name: "BOE — Legislacion: Sanidad"
+    org: "Boletin Oficial del Estado"
+    topic: "Salud"
     authority: true
-    url: "https://www.dgt.es/rss"   # VALIDAR
-  - name: Policia Nacional
-    org: Policia Nacional
-    topic: Sucesos
-    authority: false
-    url: "https://www.policia.es/rss/rss.xml"   # VALIDAR
-  - name: Guardia Civil
-    org: Guardia Civil
-    topic: Sucesos
-    authority: false
-    url: "https://www.guardiacivil.es/rss"   # VALIDAR
-  - name: CGPJ
-    org: Consejo General del Poder Judicial
-    topic: Justicia
+    url: "https://www.boe.es/rss/canal_leg.php?l=l&c=124"
+
+  - name: "IGN — Informacion de terremotos"
+    org: "Instituto Geografico Nacional"
+    topic: "Sismos"
     authority: true
-    url: "https://www.poderjudicial.es/cgpj/es/rss/"   # VALIDAR
-  - name: Ministerio del Interior
-    org: Ministerio del Interior
-    topic: Seguridad
-    authority: false
-    url: "https://www.interior.gob.es/rss"   # VALIDAR
-  - name: IGN Sismos
-    org: Instituto Geografico Nacional
-    topic: Sismos
+    url: "https://www.ign.es/ign/RssTools/sismologia.xml"
+
+  - name: "IGN — Noticias"
+    org: "Instituto Geografico Nacional"
+    topic: "Ciencia"
     authority: true
-    url: "https://www.ign.es/web/ign/portal/ultimos-terremotos/-/ultimos-terremotos/get?rss"  # VALIDAR
-# ... anade el resto de fuentes del CSV fuentes-nacionales.csv
+    url: "https://www.ign.es/ign/rss"
