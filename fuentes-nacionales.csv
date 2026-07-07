@@ -1,0 +1,36 @@
+nombre,organismo,tipo,tematica,url_portal_prensa,formato,prioridad,notas
+BOE,Boletin Oficial del Estado,Estado,Legislacion/Nombramientos,https://www.boe.es,API/XML (datos abiertos BOE),Alta,Fuente de maxima autoridad para leyes y disposiciones. Tiene API de datos abiertos.
+La Moncloa,Presidencia del Gobierno,Estado,Politica/Consejo de Ministros,https://www.lamoncloa.gob.es/serviciosdeprensa,RSS + web,Alta,Referencia del Consejo de Ministros (viernes) y notas de prensa.
+Congreso de los Diputados,Congreso,Estado,Politica/Actividad parlamentaria,https://www.congreso.es,RSS + web,Alta,Agenda plenaria votaciones e iniciativas.
+Senado,Senado,Estado,Politica,https://www.senado.es,RSS + web,Media,Actividad de la camara alta.
+INE,Instituto Nacional de Estadistica,Estado,Economia/Sociedad/Datos,https://www.ine.es,API JSON + notas de prensa,Alta,IPC paro PIB poblacion. API estadistica potente. Calendario de publicaciones fijo.
+Banco de Espana,Banco de Espana,Estado,Economia,https://www.bde.es,RSS + web,Media,Notas economicas y financieras.
+CNMV,Comision Nacional del Mercado de Valores,Estado,Economia/Mercados,https://www.cnmv.es,RSS/HR + web,Media,Hechos relevantes de empresas cotizadas.
+CNMC,Comision Nacional de los Mercados y la Competencia,Estado,Economia/Regulacion,https://www.cnmc.es,RSS + web,Media,Sanciones y resoluciones de competencia y telecos.
+AEMET,Agencia Estatal de Meteorologia,Estado,Tiempo/Emergencias,https://www.aemet.es,API REST (AEMET OpenData),Alta,Avisos meteorologicos y prediccion. Requiere clave API gratuita.
+DGT,Direccion General de Trafico,Estado,Trafico/Sucesos,https://www.dgt.es,API/datos abiertos + RSS,Alta,Incidencias de trafico y estadisticas de accidentes.
+Ministerio del Interior,Ministerio del Interior,Estado,Seguridad/Sucesos,https://www.interior.gob.es,RSS + web,Alta,Notas sobre operaciones seguridad y emergencias.
+Policia Nacional,Policia Nacional,Estado,Sucesos/Seguridad,https://www.policia.es,RSS + web,Alta,Notas de operaciones y detenciones.
+Guardia Civil,Guardia Civil,Estado,Sucesos/Seguridad,https://www.guardiacivil.es,RSS + web,Alta,Notas de operaciones.
+CGPJ,Consejo General del Poder Judicial,Estado,Justicia/Tribunales,https://www.poderjudicial.es,RSS + web,Alta,Notas sobre sentencias y resoluciones (CENDOJ para textos).
+Fiscalia General del Estado,Fiscalia,Estado,Justicia,https://www.fiscal.es,web,Media,Comunicados de la Fiscalia.
+Proteccion Civil,DGPCE Ministerio del Interior,Estado,Emergencias,https://www.proteccioncivil.es,web + redes,Alta,Alertas y situaciones de emergencia a nivel nacional.
+Moncloa Referencia Consejo Ministros,Presidencia,Estado,Politica,https://www.lamoncloa.gob.es/consejodeministros,web,Alta,Acuerdos del Consejo de Ministros.
+Ministerio de Sanidad,Ministerio de Sanidad,Estado,Salud,https://www.sanidad.gob.es,RSS + web,Media,Alertas sanitarias y notas.
+Ministerio de Transportes,Ministerio de Transportes y Movilidad,Estado,Infraestructuras,https://www.transportes.gob.es,RSS + web,Media,Obras infraestructuras y transporte.
+Ministerio de Educacion,Ministerio de Educacion FP y Deportes,Estado,Educacion,https://www.educacionfpydeportes.gob.es,RSS + web,Media,Notas de educacion.
+Ministerio de Hacienda,Ministerio de Hacienda,Estado,Economia,https://www.hacienda.gob.es,RSS + web,Media,Notas fiscales y presupuestarias.
+Ministerio de Trabajo,Ministerio de Trabajo y Economia Social,Estado,Empleo,https://www.mites.gob.es,RSS + web,Media,Datos de empleo y relaciones laborales.
+Ministerio para la Transicion Ecologica,MITECO,Estado,Medioambiente/Energia,https://www.miteco.gob.es,RSS + web,Media,Medioambiente energia y agua.
+Ministerio de Defensa,Ministerio de Defensa,Estado,Defensa,https://www.defensa.gob.es,RSS + web,Baja,Notas de defensa y misiones.
+Ministerio de Asuntos Exteriores,MAEC,Estado,Internacional,https://www.exteriores.gob.es,RSS + web,Media,Comunicados de politica exterior.
+CIS,Centro de Investigaciones Sociologicas,Estado,Sociedad/Encuestas,https://www.cis.es,web + datos,Media,Barometros y encuestas oficiales.
+datos.gob.es,Iniciativa Aporta,Estado,Datos abiertos,https://datos.gob.es,catalogo/API,Media,Catalogo nacional de datos abiertos (multiples APIs).
+Red Electrica de Espana,REE/Redeia,Semipublico,Energia,https://www.ree.es,API (Datos ESIOS) + web,Media,Demanda y generacion electrica. API ESIOS.
+RTVE Datos/Comunicacion,RTVE,Semipublico,Medios,https://www.rtve.es,web,Baja,Solo para hechos; RTVE tiene derechos sobre su contenido. No copiar.
+AENA,Aena,Semipublico,Transporte aereo,https://www.aena.es,web + datos,Baja,Datos de trafico aereo y aeropuertos.
+Puertos del Estado,Puertos del Estado,Estado,Transporte maritimo,https://www.puertos.es,API + web,Baja,Datos oceanograficos y portuarios.
+Instituto Geografico Nacional,IGN,Estado,Sismos/Geografia,https://www.ign.es,API sismos + web,Media,Terremotos en tiempo real (API de sismologia).
+Agencia Tributaria,AEAT,Estado,Economia,https://sede.agenciatributaria.gob.es,web,Baja,Notas y campanas.
+Seguridad Social,Seguridad Social,Estado,Empleo/Pensiones,https://www.seg-social.es,RSS + web,Media,Datos de afiliacion y pensiones.
+SEPE,Servicio Publico de Empleo Estatal,Estado,Empleo,https://www.sepe.es,web,Media,Datos de paro registrado.
