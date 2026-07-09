@@ -1,5 +1,625 @@
 [
   {
+    "slug": "2026-07-09-se-crean-nuevas-unidades-administrativas-en-la-administración-de-justicia-de-nav",
+    "title": "Se crean nuevas unidades administrativas en la Administración de Justicia de Navarra",
+    "lead": "La Dirección General de Justicia ha tomado una decisión para mejorar la organización de la Justicia en la Comunidad Foral de Navarra",
+    "section": "Tribunales",
+    "date": "2026-07-09T11:59:38.934012+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15024"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-autorizada-la-instalación-de-transformadores-eléctricos-de-electrotécnica-artech",
+    "title": "Autorizada la instalación de transformadores eléctricos de Electrotécnica Arteche Hermanos en la red",
+    "lead": "La Delegación Territorial de Bizkaia ha otorgado la autorización necesaria para el uso de determinados transformadores eléctricos en la red, según la Resolución publicada en el Boletín Oficial del Estado",
+    "section": "Nacional",
+    "date": "2026-07-09T11:59:33.664015+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15023"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-la-comisión-nacional-de-los-mercados-y-la-competencia-publica-el-saldo-de-la-cue",
+    "title": "La Comisión Nacional de los Mercados y la Competencia publica el saldo de la cuenta regulatoria del sistema gasista",
+    "lead": "La Comisión Nacional de los Mercados y la Competencia ha hecho públicos los cálculos del saldo de la cuenta regulatoria del gestor técnico del sistema gasista correspondientes al cierre de 2025",
+    "section": "Economia",
+    "date": "2026-07-09T11:59:27.523401+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15022"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-el-banco-de-españa-publica-los-cambios-oficiales-del-euro-para-el-día-8-de-julio",
+    "title": "El Banco de España publica los cambios oficiales del euro para el día 8 de julio de 2026",
+    "lead": "El Banco de España ha hecho pública la lista de cambios oficiales del euro correspondientes al día 8 de julio de 2026, según lo dispuesto por el Banco Central Europeo",
+    "section": "Economia",
+    "date": "2026-07-09T11:59:22.038221+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15021"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-publicada-adenda-de-prórroga-del-convenio-para-la-investigación-del-mercado-de-a",
+    "title": "Publicada adenda de prórroga del Convenio para la investigación del mercado de apuestas en baloncesto",
+    "lead": "La Dirección General de Ordenación del Juego ha publicado una adenda para prorrogar el Convenio con la Asociación de Clubes de Baloncesto",
+    "section": "Deportes",
+    "date": "2026-07-09T11:59:15.921115+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15018"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-el-ministerio-de-cultura-otorga-garantía-estatal-a-obras-de-dalí-y-designa-jurad",
+    "title": "El Ministerio de Cultura otorga garantía estatal a obras de Dalí y designa jurado para Premio Nacional de Diseño de Moda",
+    "lead": "El Museo Nacional Thyssen Bornemisza exhibirá obras de Dalí con garantía estatal, mientras que se ha designado un jurado para seleccionar al ganador del Premio Nacional de Diseño de Moda de 2026",
+    "section": "Cultura",
+    "date": "2026-07-09T11:59:09.745773+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15012"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15016"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-españa-promueve-la-producción-y-calidad-de-frutas-y-hortalizas-en-mercados-inter",
+    "title": "España promueve la producción y calidad de frutas y hortalizas en mercados internacionales",
+    "lead": "La Dirección General de Alimentación ha establecido un convenio con la Federación Española de Asociaciones de Productores Exportadores de Frutas y Hortalizas para impulsar la promoción de productos españoles en el extranjero",
+    "section": "Economia",
+    "date": "2026-07-09T11:59:02.441429+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15008"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-convocatorias-y-resoluciones-oficiales-en-el-boe",
+    "title": "Convocatorias y resoluciones oficiales en el BOE",
+    "lead": "El Boletín Oficial del Estado publica diversas convocatorias y resoluciones relacionadas con empleo, educación y administración pública.",
+    "section": "Nacional",
+    "date": "2026-07-09T11:58:56.943747+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15004"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15005"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15006"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15009"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15011"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15019"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15020"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14909"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14910"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14911"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14912"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14913"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14914"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14915"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14916"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14917"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14919"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14924"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14925"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14926"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14927"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14931"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14932"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14933"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14934"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14935"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14936"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14937"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14938"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14939"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14940"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-la-dirección-general-de-seguridad-jurídica-y-fe-pública-resuelve-recurso-sobre-a",
+    "title": "La Dirección General de Seguridad Jurídica y Fe Pública resuelve recurso sobre asignación de número de registro de alquiler de corta duración",
+    "lead": "La Dirección General de Seguridad Jurídica y Fe Pública ha resuelto un recurso interpuesto contra la nota de calificación de un registrador de la propiedad, en relación con la asignación de un número de registro de alquiler de corta duración turístico",
+    "section": "Tribunales",
+    "date": "2026-07-09T11:57:56.771311+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14942"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14943"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14944"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14949"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14951"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14952"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14956"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14957"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14958"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14960"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14961"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14962"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14964"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14965"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14967"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14969"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14970"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14972"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14973"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14974"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14976"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14978"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14979"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14980"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14991"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14996"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-avances-en-la-lucha-contra-la-violencia-de-género-y-modificaciones-en-el-ámbito-",
+    "title": "Avances en la lucha contra la violencia de género y modificaciones en el ámbito judicial",
+    "lead": "Recientemente, se han producido varios cambios y convenios en el ámbito de la justicia y la seguridad que buscan fortalecer la lucha contra la violencia de género y mejorar la eficiencia en el sistema judicial.",
+    "section": "Tribunales",
+    "date": "2026-07-09T11:56:52.671853+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14941"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14992"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15003"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14902"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-nuevas-medidas-para-el-fortalecimiento-del-sistema-de-autonomía-y-atención-a-la-",
+    "title": "Nuevas medidas para el fortalecimiento del Sistema de Autonomía y Atención a la Dependencia",
+    "lead": "El BOE publica varias disposiciones generales y otras disposiciones, entre las que se incluye la corrección de errores del Real Decreto-ley 17/2026 y la creación de nuevas unidades judiciales.",
+    "section": "Nacional",
+    "date": "2026-07-09T11:56:41.056576+00:00",
+    "sources": [
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14877"
+      },
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14878"
+      },
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14879"
+      },
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14881"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14945"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14946"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14947"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14950"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14953"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14954"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14955"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14959"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14963"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14966"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14968"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14971"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14975"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14977"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14981"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14982"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14983"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14984"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14985"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14986"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14987"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14988"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14989"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14990"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14993"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14994"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14995"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14997"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14998"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15000"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15001"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15002"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15007"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15010"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15017"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14903"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14904"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14905"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14906"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14907"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14908"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14918"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14920"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14921"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14922"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14928"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14929"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14930"
+      }
+    ]
+  },
+  {
+    "slug": "2026-07-09-nuevas-disposiciones-y-convenios-publicados-en-el-boletín-oficial-del-estado",
+    "title": "Nuevas disposiciones y convenios publicados en el Boletín Oficial del Estado",
+    "lead": "El Boletín Oficial del Estado ha publicado varias disposiciones y convenios nuevos, relacionados con la creación de una vocalía en el Tribunal Administrativo Central de Recursos Contractuales y el ejercicio del derecho de tanteo sobre varios lotes subastados",
+    "section": "Nacional",
+    "date": "2026-07-09T11:55:36.672446+00:00",
+    "sources": [
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/boe/dias/2026/07/09/"
+      },
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14880"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14948"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14999"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15013"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15014"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15015"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-08-un-terremoto-de-magnitud-28-sacude-la-zona-de-alborán-norte",
     "title": "Un terremoto de magnitud 2.8 sacude la zona de Alborán Norte",
     "lead": "Un movimiento sísmico de baja intensidad ha sido registrado en la región de Alborán Norte, según informes oficiales.",
