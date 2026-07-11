@@ -1,5 +1,22 @@
 [
   {
+    "slug": "2026-07-11-dos-terremotos-sacuden-regiones-españolas",
+    "title": "Dos terremotos sacuden regiones españolas",
+    "lead": "Se han registrado dos movimientos sísmicos en diferentes zonas del país",
+    "section": "Tiempo",
+    "date": "2026-07-11T08:48:05.483203+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nlqmn"
+      },
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nlpmu"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-11-universidad-internacional-menéndez-pelayo-y-instituto-complutense-de-ciencias-mu",
     "title": "Universidad Internacional Menéndez Pelayo y Instituto Complutense de Ciencias Musicales firman convenio para prácticas de estudiantes",
     "lead": "La Universidad Internacional Menéndez Pelayo ha publicado un convenio con el Instituto Complutense de Ciencias Musicales para realizar prácticas en la universidad",
