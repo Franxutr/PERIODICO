@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-14-terremoto-de-magnitud-32-se-registra-en-el-mar-de-alborán",
+    "title": "Terremoto de magnitud 3,2 se registra en el Mar de Alborán",
+    "lead": "Un terremoto ha sacudido la región del Mar de Alborán, según informes oficiales.",
+    "section": "Sucesos",
+    "date": "2026-07-14T11:12:58.325171+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nrija"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-14-convocatorias-públicas-y-modificaciones-de-convenios-en-various-administraciones",
     "title": "Convocatorias públicas y modificaciones de convenios en various administraciones",
     "lead": "Se han publicado varias resoluciones en el Boletín Oficial del Estado relacionadas con convocatorias para proveer puestos de trabajo y una modificación de convenio para la rehabilitación de edificios públicos",
@@ -3107,87 +3120,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14684"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-07-el-boletín-oficial-del-estado-publica-varios-convenios-y-resoluciones-para-la-co",
-    "title": "El Boletín Oficial del Estado publica varios convenios y resoluciones para la colaboración y formación en diferentes ámbitos",
-    "lead": "El Boletín Oficial del Estado ha publicado recientemente varias resoluciones y convenios relacionados con la colaboración y formación en áreas como la justicia, la seguridad, la educación y la normalización",
-    "section": "Nacional",
-    "date": "2026-07-07T19:10:15.808342+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14726"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14727"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14730"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14731"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14732"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14733"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14736"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14737"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14738"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14739"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14742"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14745"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14747"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14748"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14720"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14721"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14722"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14723"
       }
     ]
   }
