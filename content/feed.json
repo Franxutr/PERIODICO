@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-15-se-actualiza-el-modelo-digital-del-terreno-con-datos-de-extremadura",
+    "title": "Se actualiza el Modelo Digital del Terreno con datos de Extremadura",
+    "lead": "El proyecto LiDAR ha hecho pública la nueva información sobre el terreno en la Comunidad Autónoma de Extremadura",
+    "section": "Ciencia",
+    "date": "2026-07-15T14:15:50.676293+00:00",
+    "sources": [
+      {
+        "name": "IGN — Noticias",
+        "url": "https://centrodedescargas.cnig.es/CentroDescargas/modelo-digital-terreno-mdt50cm"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-15-el-consejo-de-seguridad-nuclear-convoca-la-provisión-de-puestos-de-trabajo",
     "title": "El Consejo de Seguridad Nuclear convoca la provisión de puestos de trabajo",
     "lead": "Se ha iniciado un proceso de selección para cubrir vacantes en el organismo regulador nuclear",
@@ -3207,39 +3220,6 @@
       {
         "name": "BOE — Legislacion: Sanidad",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9794"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-07-el-ministerio-de-sanidad-amplía-el-crédito-para-programas-de-prevención-de-adicc",
-    "title": "El Ministerio de Sanidad amplía el crédito para programas de prevención de adicciones",
-    "lead": "El Ministerio de Sanidad ha decidido ampliar el crédito destinado a la convocatoria de ayudas económicas para entidades sin ánimo de lucro que trabajan en la prevención de adicciones",
-    "section": "Salud",
-    "date": "2026-07-07T19:12:26.512954+00:00",
-    "sources": [
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-22031"
-      },
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13201"
-      },
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-17505"
-      },
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-17406"
-      },
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-16236"
-      },
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-15262"
       }
     ]
   }
