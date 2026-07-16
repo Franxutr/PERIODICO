@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-16-terremoto-de-magnitud-42-en-azores-cabo-de-san-vicente",
+    "title": "Terremoto de magnitud 4.2 en Azores-Cabo de San Vicente",
+    "lead": "Un terremoto ha sacudido la zona de Azores-Cabo de San Vicente, según informó el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-07-16T10:34:29.856039+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nuydn"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-16-la-seguridad-social-establece-nuevos-coeficientes-para-la-gestión-de-la-incapaci",
     "title": "La Seguridad Social establece nuevos coeficientes para la gestión de la incapacidad temporal",
     "lead": "La Dirección General de Ordenación de la Seguridad Social ha dictado una resolución para regular la aplicación de coeficientes a las mutuas colaboradoras con la Seguridad Social",
@@ -3159,19 +3172,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14824"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-08-publicado-el-sumario-del-boletín-oficial-del-estado-del-8-de-julio-de-2026",
-    "title": "Publicado el sumario del Boletín Oficial del Estado del 8 de julio de 2026",
-    "lead": "El Boletín Oficial del Estado ha hecho pública la edición correspondiente al miércoles 8 de julio de 2026",
-    "section": "Nacional",
-    "date": "2026-07-08T06:26:16.214376+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/boe/dias/2026/07/08/"
       }
     ]
   }
