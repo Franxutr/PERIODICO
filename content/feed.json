@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-16-terremoto-en-el-atlántico-con-epicentro-en-azores",
+    "title": "Terremoto en el Atlántico con epicentro en Azores",
+    "lead": "Un sismo de magnitud moderada se ha registrado en la región de Azores-Cabo de San Vicente",
+    "section": "Sucesos",
+    "date": "2026-07-16T19:04:54.234665+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nvouh"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-16-se-actualizan-las-ortoimágenes-verdaderas-para-andalucía-occidental",
     "title": "Se actualizan las Ortoimágenes Verdaderas para Andalucía occidental",
     "lead": "El Instituto Geográfico Nacional pone a disposición del público las nuevas Ortoimágenes Verdaderas de varios núcleos urbanos de Andalucía occidental",
@@ -3023,27 +3036,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14829"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-08-modificaciones-en-la-normativa-ganadera-y-convenios-estadísticos-en-el-ámbito-na",
-    "title": "Modificaciones en la normativa ganadera y convenios estadísticos en el ámbito nacional",
-    "lead": "El Ministerio de Agricultura, Pesca y Alimentación ha anunciado cambios en la regulación de productos reproductivos de especies ganaderas y ha firmado un convenio con la Comunidad Autónoma de Galicia sobre estadística para el año 2026.",
-    "section": "Nacional",
-    "date": "2026-07-08T06:26:37.767615+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14762"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14863"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14864"
       }
     ]
   }
