@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-17-terremoto-de-magnitud-33-sacude-el-suroeste-del-cabo-de-san-vicente",
+    "title": "Terremoto de magnitud 3.3 sacude el suroeste del Cabo de San Vicente",
+    "lead": "Un terremoto ha afectado la región del suroeste del Cabo de San Vicente, según informes oficiales",
+    "section": "Sucesos",
+    "date": "2026-07-17T04:29:46.491907+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nwdci"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-17-se-registra-un-terremoto-de-magnitud-30-en-la-región-de-málaga",
     "title": "Se registra un terremoto de magnitud 3.0 en la región de Málaga",
     "lead": "Un movimiento sísmico ha sido detectado en la zona de Alhaurín el Grande, según informó el Instituto Geográfico Nacional",
@@ -2875,39 +2888,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14869"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-08-nuevas-convocatorias-y-reconocimientos-en-el-ámbito-educativo-y-público",
-    "title": "Nuevas convocatorias y reconocimientos en el ámbito educativo y público",
-    "lead": "El Boletín Oficial del Estado publica varias disposiciones y convocatorias relacionadas con la educación, la función pública y los deportes",
-    "section": "Nacional",
-    "date": "2026-07-08T06:28:16.866492+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14860"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14861"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14867"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14794"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14795"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14825"
       }
     ]
   }
