@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-18-terremoto-de-magnitud-26-en-el-atlántico-cerca-de-canarias",
+    "title": "Terremoto de magnitud 2.6 en el Atlántico cerca de Canarias",
+    "lead": "Un terremoto de baja intensidad se ha producido en el Atlántico, cerca de la región de Canarias",
+    "section": "Sucesos",
+    "date": "2026-07-18T04:18:18.230641+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nycau"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-17-el-banco-de-españa-publica-los-cambios-oficiales-del-euro",
     "title": "El Banco de España publica los cambios oficiales del euro",
     "lead": "El Banco de España ha hecho pública la actualización de los cambios del euro para el día 16 de julio de 2026",
@@ -2603,19 +2616,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15016"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-09-españa-promueve-la-producción-y-calidad-de-frutas-y-hortalizas-en-mercados-inter",
-    "title": "España promueve la producción y calidad de frutas y hortalizas en mercados internacionales",
-    "lead": "La Dirección General de Alimentación ha establecido un convenio con la Federación Española de Asociaciones de Productores Exportadores de Frutas y Hortalizas para impulsar la promoción de productos españoles en el extranjero",
-    "section": "Economia",
-    "date": "2026-07-09T11:59:02.441429+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15008"
       }
     ]
   }
