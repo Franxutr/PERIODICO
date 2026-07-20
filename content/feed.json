@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-20-terremoto-de-magnitud-40-sacude-las-aguas-de-azores-cabo-de-san-vicente",
+    "title": "Terremoto de magnitud 4,0 sacude las aguas de Azores-Cabo de San Vicente",
+    "lead": "Un terremoto ha sido registrado en la zona de Azores-Cabo de San Vicente, según informó el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-07-20T23:03:08.176292+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026odfrq"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-20-el-museo-reina-sofía-y-el-instituto-de-las-artes-escénicas-y-la-música-anuncian-",
     "title": "El Museo Reina Sofía y el Instituto de las Artes Escénicas y la Música anuncian acuerdos y condiciones para el acceso a sus instalaciones",
     "lead": "Recientemente, se han hecho públicas resoluciones relacionadas con la colaboración y el acceso a eventos culturales en España",
@@ -2563,83 +2576,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15174"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-11-diversas-convocatorias-y-convenios-publicados-en-el-boe",
-    "title": "Diversas convocatorias y convenios publicados en el BOE",
-    "lead": "El Boletín Oficial del Estado ha publicado recientemente varias convocatorias y convenios relacionados con empleo, educación y cooperación internacional",
-    "section": "Nacional",
-    "date": "2026-07-11T06:58:49.629958+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15175"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15176"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15178"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15191"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15192"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15197"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15199"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15201"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15202"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15157"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15158"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15162"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15166"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15169"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15170"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15171"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15173"
       }
     ]
   }
