@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-21-terremoto-de-magnitud-35-sacude-la-región-de-azores-cabo-de-san-vicente",
+    "title": "Terremoto de magnitud 3.5 sacude la región de Azores-Cabo de San Vicente",
+    "lead": "Un terremoto ha afectado la zona de Azores-Cabo de San Vicente, según informes oficiales",
+    "section": "Tiempo",
+    "date": "2026-07-21T00:14:09.349670+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026odgvz"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-20-terremoto-de-magnitud-40-sacude-las-aguas-de-azores-cabo-de-san-vicente",
     "title": "Terremoto de magnitud 4,0 sacude las aguas de Azores-Cabo de San Vicente",
     "lead": "Un terremoto ha sido registrado en la zona de Azores-Cabo de San Vicente, según informó el Instituto Geográfico Nacional",
@@ -2539,43 +2552,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15187"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-11-actualizaciones-laborales-y-convocatorias-de-empleo",
-    "title": "Actualizaciones laborales y convocatorias de empleo",
-    "lead": "El Ministerio de Trabajo y Economía Social ha publicado varias resoluciones relacionadas con convenios colectivos y procedimientos de selección de personal",
-    "section": "Economia",
-    "date": "2026-07-11T06:58:54.224653+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15179"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15180"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15181"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15182"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15183"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15155"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15174"
       }
     ]
   }
