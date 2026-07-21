@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-21-un-terremoto-de-magnitud-29-sacude-el-golfo-de-cádiz",
+    "title": "Un terremoto de magnitud 2.9 sacude el Golfo de Cádiz",
+    "lead": "Un movimiento sísmico ha afectado la región del Golfo de Cádiz, según informa el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-07-21T22:15:27.656631+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026oexse"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-21-terremoto-de-magnitud-30-sacude-la-región-de-gor",
     "title": "Terremoto de magnitud 3.0 sacude la región de Gor",
     "lead": "Un terremoto de moderada intensidad se ha registrado en la región de Gor, según informó el Instituto Geográfico Nacional",
@@ -2475,19 +2488,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15279"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-13-españa-celebra-su-fiesta-nacional-en-egipto-a-través-de-un-convenio-internaciona",
-    "title": "España celebra su Fiesta Nacional en Egipto a través de un convenio internacional",
-    "lead": "La Secretaría General Técnica ha publicado un convenio para la celebración de la Fiesta Nacional de España en Egipto",
-    "section": "Internacional",
-    "date": "2026-07-13T08:16:33.047202+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15277"
       }
     ]
   }
