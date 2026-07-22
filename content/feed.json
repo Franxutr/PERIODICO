@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-22-terremoto-de-magnitud-38-sacude-la-región-de-évora-en-portugal",
+    "title": "Terremoto de magnitud 3.8 sacude la región de Évora en Portugal",
+    "lead": "Un terremoto ha ocurrido en la región de Évora, en el sur de Portugal, según informes oficiales",
+    "section": "Sucesos",
+    "date": "2026-07-22T03:52:23.149307+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ofeko"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-21-un-terremoto-de-magnitud-29-sacude-el-golfo-de-cádiz",
     "title": "Un terremoto de magnitud 2.9 sacude el Golfo de Cádiz",
     "lead": "Un movimiento sísmico ha afectado la región del Golfo de Cádiz, según informa el Instituto Geográfico Nacional",
@@ -2475,19 +2488,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15284"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-13-el-consorcio-de-la-zona-franca-de-barcelona-y-el-hospital-clínic-de-barcelona-un",
-    "title": "El Consorcio de la Zona Franca de Barcelona y el Hospital Clínic de Barcelona unen fuerzas para impulsar la innovación en salud",
-    "lead": "Un convenio entre el Consorcio de la Zona Franca de Barcelona, el Consorcio Mar Parc de Salut y el Hospital Clínic de Barcelona busca fomentar la creatividad y el uso de tecnologías avanzadas en el ámbito sanitario",
-    "section": "Salud",
-    "date": "2026-07-13T08:16:40.546198+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15279"
       }
     ]
   }
