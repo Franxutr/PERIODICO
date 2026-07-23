@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-23-un-terremoto-de-magnitud-27-se-registra-en-la-provincia-de-ourense",
+    "title": "Un terremoto de magnitud 2.7 se registra en la provincia de Ourense",
+    "lead": "Un movimiento sísmico de intensidad moderada ha sacudido una zona de Ourense en la madrugada del 23 de julio",
+    "section": "Sucesos",
+    "date": "2026-07-23T04:39:08.162310+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ohbso"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-23-dos-terremotos-sacuden-el-atlántico-y-el-golfo-de-cádiz",
     "title": "Dos terremotos sacuden el Atlántico y el Golfo de Cádiz",
     "lead": "El Instituto Geográfico Nacional informa sobre la ocurrencia de dos movimientos sísmicos en la región",
@@ -2623,31 +2636,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15344"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-14-españa-y-egipto-firman-acuerdo-de-intercambio-de-información-clasificada-en-defe",
-    "title": "España y Egipto firman acuerdo de intercambio de información clasificada en defensa",
-    "lead": "El acuerdo busca fortalecer la cooperación entre ambos países en materia de defensa y seguridad",
-    "section": "Nacional",
-    "date": "2026-07-14T09:30:35.830525+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15300"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15354"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15358"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15360"
       }
     ]
   }
