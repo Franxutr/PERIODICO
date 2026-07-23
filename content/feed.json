@@ -1,5 +1,22 @@
 [
   {
+    "slug": "2026-07-23-dos-terremotos-sacuden-el-atlántico-y-el-golfo-de-cádiz",
+    "title": "Dos terremotos sacuden el Atlántico y el Golfo de Cádiz",
+    "lead": "El Instituto Geográfico Nacional informa sobre la ocurrencia de dos movimientos sísmicos en la región",
+    "section": "Sucesos",
+    "date": "2026-07-23T01:09:02.722196+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ogyjg"
+      },
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ogwxz"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-22-terremoto-de-magnitud-38-sacude-la-región-de-azores-cabo-de-san-vicente",
     "title": "Terremoto de magnitud 3.8 sacude la región de Azores-Cabo de San Vicente",
     "lead": "Un terremoto de moderada intensidad se ha registrado en la zona de Azores-Cabo de San Vicente, según informes oficiales.",
@@ -2631,27 +2648,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15360"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-14-ultimas-disposiciones-publicadas-en-el-boletín-oficial-del-estado",
-    "title": "Ultimas disposiciones publicadas en el Boletín Oficial del Estado",
-    "lead": "El BOE publica diversas resoluciones y sumarios relativos a fiscalizaciones, planes de estudios y otros asuntos de interés nacional",
-    "section": "Nacional",
-    "date": "2026-07-14T09:30:31.401782+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/boe/dias/2026/07/14/"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15353"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15376"
       }
     ]
   }
