@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-25-terremoto-de-magnitud-28-se-registra-en-loulé-portugal",
+    "title": "Terremoto de magnitud 2.8 se registra en Loulé, Portugal",
+    "lead": "Un terremoto ha sacudido la región de Loulé, en el noroeste de Portugal, según informa el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-07-25T08:36:32.900196+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026oldvu"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-25-prórroga-de-convenio-para-formación-y-prácticas-en-centros-de-trabajo-en-guadala",
     "title": "Prórroga de convenio para formación y prácticas en centros de trabajo en Guadalajara",
     "lead": "El Instituto de Mayores y Servicios Sociales ha publicado la adenda de prórroga de un convenio para el desarrollo de programas de formación y prácticas formativas",
@@ -2715,19 +2728,6 @@
       {
         "name": "IGN — Informacion de terremotos",
         "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nwdci"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-17-se-registra-un-terremoto-de-magnitud-30-en-la-región-de-málaga",
-    "title": "Se registra un terremoto de magnitud 3.0 en la región de Málaga",
-    "lead": "Un movimiento sísmico ha sido detectado en la zona de Alhaurín el Grande, según informó el Instituto Geográfico Nacional",
-    "section": "Sucesos",
-    "date": "2026-07-17T01:10:16.879677+00:00",
-    "sources": [
-      {
-        "name": "IGN — Informacion de terremotos",
-        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nwatv"
       }
     ]
   }
