@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-25-un-terremoto-de-magnitud-34-sacude-la-zona-de-azores-cabo-de-san-vicente",
+    "title": "Un terremoto de magnitud 3.4 sacude la zona de Azores-Cabo de San Vicente",
+    "lead": "Un movimiento sísmico ha sido registrado en la región de Azores-Cabo de San Vicente, según información oficial",
+    "section": "Sucesos",
+    "date": "2026-07-25T04:12:32.759740+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026okvte"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-24-presentado-sello-conmemorativo-del-eclipse-total-de-sol-del-12-de-agosto",
     "title": "Presentado sello conmemorativo del eclipse total de sol del 12 de agosto",
     "lead": "El Ministerio de Transportes y Movilidad Sostenible ha presentado un sello de correo dedicado al eclipse total de sol que tendrá lugar el próximo 12 de agosto, visible desde algunos puntos de España.",
@@ -2599,27 +2612,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15549"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-16-la-rioja-aprueba-la-gratuidad-de-los-estudios-universitarios-y-se-firman-conveni",
-    "title": "La Rioja aprueba la gratuidad de los estudios universitarios y se firman convenios para mejorar la educación",
-    "lead": "La Comunidad Autónoma de La Rioja ha aprobado una ley que establece la gratuidad de los estudios oficiales de grado universitario, mientras que se han firmado convenios para mejorar la calidad educativa en diferentes regiones",
-    "section": "Educación",
-    "date": "2026-07-16T06:15:17.314617+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15463"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15561"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15511"
       }
     ]
   }
