@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-25-un-terremoto-de-magnitud-31-se-registra-en-el-suroeste-de-francia",
+    "title": "Un terremoto de magnitud 3.1 se registra en el suroeste de Francia",
+    "lead": "Un sismo de moderada intensidad ha sacudido la región de NW BAREGES en Francia",
+    "section": "Sucesos",
+    "date": "2026-07-25T10:15:29.367098+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026olipy"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-25-terremoto-de-magnitud-28-se-registra-en-loulé-portugal",
     "title": "Terremoto de magnitud 2.8 se registra en Loulé, Portugal",
     "lead": "Un terremoto ha sacudido la región de Loulé, en el noroeste de Portugal, según informa el Instituto Geográfico Nacional",
@@ -2715,19 +2728,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15630"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-17-terremoto-de-magnitud-33-sacude-el-suroeste-del-cabo-de-san-vicente",
-    "title": "Terremoto de magnitud 3.3 sacude el suroeste del Cabo de San Vicente",
-    "lead": "Un terremoto ha afectado la región del suroeste del Cabo de San Vicente, según informes oficiales",
-    "section": "Sucesos",
-    "date": "2026-07-17T04:29:46.491907+00:00",
-    "sources": [
-      {
-        "name": "IGN — Informacion de terremotos",
-        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026nwdci"
       }
     ]
   }
