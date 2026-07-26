@@ -1,5 +1,22 @@
 [
   {
+    "slug": "2026-07-26-dos-terremotos-sacuden-las-costas-españolas-en-un-breve-lapso-de-tiempo",
+    "title": "Dos terremotos sacuden las costas españolas en un breve lapso de tiempo",
+    "lead": "Según información oficial, España ha experimentado dos terremotos en un corto período, afectando áreas marítimas próximas a la costa",
+    "section": "Sucesos",
+    "date": "2026-07-26T16:26:27.794284+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026onqrb"
+      },
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026onqee"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-26-dos-terremotos-sacuden-la-región-en-un-lapso-de-40-minutos",
     "title": "Dos terremotos sacuden la región en un lapso de 40 minutos",
     "lead": "La giornada del 26 de julio ha registrado dos movimientos sísmicos en diferentes zonas geográficas",
@@ -2635,19 +2652,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15627"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-17-asturias-reforma-la-ley-de-seguridad-minera",
-    "title": "Asturias reforma la ley de seguridad minera",
-    "lead": "El Principado de Asturias ha aprobado una modificación de la ley de seguridad minera",
-    "section": "Nacional",
-    "date": "2026-07-17T07:02:52.866144+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15578"
       }
     ]
   }
