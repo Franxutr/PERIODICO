@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-26-un-terremoto-de-magnitud-36-se-registra-en-la-región-de-azores-cabo-de-san-vicen",
+    "title": "Un terremoto de magnitud 3.6 se registra en la región de Azores-Cabo de San Vicente",
+    "lead": "Un movimiento sísmico de moderada intensidad ha sido detectado en la zona de Azores-Cabo de San Vicente",
+    "section": "Sucesos",
+    "date": "2026-07-26T04:00:50.635161+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026omohi"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-25-un-terremoto-de-magnitud-31-se-registra-en-el-suroeste-de-francia",
     "title": "Un terremoto de magnitud 3.1 se registra en el suroeste de Francia",
     "lead": "Un sismo de moderada intensidad ha sacudido la región de NW BAREGES en Francia",
@@ -2707,27 +2720,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15612"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-17-publicaciones-recientes-en-el-boletín-oficial-del-estado",
-    "title": "Publicaciones recientes en el Boletín Oficial del Estado",
-    "lead": "El Boletín Oficial del Estado ha publicado recientemente varias disposiciones generales y resoluciones de interés nacional",
-    "section": "Nacional",
-    "date": "2026-07-17T07:02:31.102759+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/boe/dias/2026/07/17/"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15665"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15630"
       }
     ]
   }
