@@ -1,5 +1,22 @@
 [
   {
+    "slug": "2026-07-27-se-registran-dos-terremotos-en-diferentes-zonas",
+    "title": "Se registran dos terremotos en diferentes zonas",
+    "lead": "Dos movimientos sísmicos han sido detectados en el mismo día en áreas distintas",
+    "section": "Sucesos",
+    "date": "2026-07-27T22:03:55.279059+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026opxbo"
+      },
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026opwsr"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-27-un-terremoto-de-magnitud-31-se-registra-en-el-atlántico-cerca-de-canarias",
     "title": "Un terremoto de magnitud 3.1 se registra en el Atlántico cerca de Canarias",
     "lead": "Un movimiento sísmico ha sido detectado en la región del Atlántico cercana a las Islas Canarias",
@@ -2707,23 +2724,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15734"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-18-nuevas-medidas-para-mejorar-la-seguridad-y-el-transporte-en-españa",
-    "title": "Nuevas medidas para mejorar la seguridad y el transporte en España",
-    "lead": "El gobierno ha aprobado varias disposiciones para fortalecer el régimen sancionador en el ámbito ferroviario y mejorar el transporte público interurbano por carretera",
-    "section": "Nacional",
-    "date": "2026-07-18T06:24:51.306802+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15681"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15682"
       }
     ]
   }
