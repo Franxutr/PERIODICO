@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-27-se-registra-un-terremoto-de-magnitud-31-en-la-zona-de-atlántico-galicia",
+    "title": "Se registra un terremoto de magnitud 3.1 en la zona de Atlántico-Galicia",
+    "lead": "Un movimiento sísmico ha sacudido la región de Atlántico-Galicia, según información oficial",
+    "section": "Sucesos",
+    "date": "2026-07-27T16:02:47.710579+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026opihf"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-27-la-diputación-provincial-de-granada-anuncia-convocatoria-para-cubrir-plazas-en-l",
     "title": "La Diputación Provincial de Granada anuncia convocatoria para cubrir plazas en la Agencia Provincial de Extinción de Incendios",
     "lead": "La Diputación Provincial de Granada ha publicado una resolución referente a la convocatoria para proveer varias plazas en el Organismo Autónomo Agencia Provincial de Extinción de Incendios",
@@ -2719,27 +2732,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15735"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-18-medidas-urgentes-para-el-sector-agrario-y-forestal",
-    "title": "Medidas urgentes para el sector agrario y forestal",
-    "lead": "El gobierno ha aprobado varias medidas para apoyar al sector agrario y forestal, incluyendo la publicación de convenios y resoluciones para mejorar la gestión y la sanidad en el sector",
-    "section": "Nacional",
-    "date": "2026-07-18T06:24:42.510257+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15679"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15729"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15730"
       }
     ]
   }
