@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-07-27-terremoto-de-magnitud-28-se-registra-en-cabo-de-san-vicente",
+    "title": "Terremoto de magnitud 2.8 se registra en Cabo de San Vicente",
+    "lead": "Un movimiento sísmico ha sacudido la región de Cabo de San Vicente en la noche del 27 de julio",
+    "section": "Sucesos",
+    "date": "2026-07-27T23:30:49.753738+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026opzjj"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-27-se-registran-dos-terremotos-en-diferentes-zonas",
     "title": "Se registran dos terremotos en diferentes zonas",
     "lead": "Dos movimientos sísmicos han sido detectados en el mismo día en áreas distintas",
@@ -2703,27 +2716,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15724"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-18-la-universidad-de-jaén-y-entidades-estatales-firman-convenios-para-impulsar-la-i",
-    "title": "La Universidad de Jaén y entidades estatales firman convenios para impulsar la investigación y la cultura científica",
-    "lead": "La Universidad de Jaén ha firmado convenios con varias entidades estatales para desarrollar proyectos de investigación y fomentar la cultura científica en la región",
-    "section": "Ciencia",
-    "date": "2026-07-18T06:24:55.716793+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15723"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15732"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15734"
       }
     ]
   }
