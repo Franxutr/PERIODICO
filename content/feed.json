@@ -1,5 +1,22 @@
 [
   {
+    "slug": "2026-07-30-dos-terremotos-sacuden-el-atlántico-norte-en-la-misma-jornada",
+    "title": "Dos terremotos sacuden el Atlántico Norte en la misma jornada",
+    "lead": "Dos movimientos sísmicos de magnitud moderada han sido registrados en el Atlántico Norte, según informes oficiales",
+    "section": "Sucesos",
+    "date": "2026-07-30T03:35:01.806599+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026otzxn"
+      },
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026otxad"
+      }
+    ]
+  },
+  {
     "slug": "2026-07-29-la-unión-europea-publica-reglamento-sobre-clasificación-de-mercancías",
     "title": "La Unión Europea publica reglamento sobre clasificación de mercancías",
     "lead": "Un nuevo reglamento relativo a la clasificación de mercancías en la nomenclatura combinada ha sido publicado por la Unión Europea",
@@ -2695,51 +2712,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15991"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-22-nuevas-disposiciones-y-convocatorias-publicadas-en-el-boe",
-    "title": "Nuevas disposiciones y convocatorias publicadas en el BOE",
-    "lead": "El Boletín Oficial del Estado ha publicado recientemente varias resoluciones y convocatorias de interés público",
-    "section": "Nacional",
-    "date": "2026-07-22T06:26:22.493328+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/boe/dias/2026/07/22/"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16001"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16002"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16009"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15978"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15980"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15982"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15983"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15989"
       }
     ]
   }
