@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-01-un-terremoto-de-magnitud-39-sacude-el-suroeste-del-cabo-de-san-vicente",
+    "title": "Un terremoto de magnitud 3.9 sacude el suroeste del Cabo de San Vicente",
+    "lead": "Un movimiento sísmico ha sido registrado en la zona del Cabo de San Vicente, según informes oficiales",
+    "section": "Sucesos",
+    "date": "2026-08-01T22:56:45.729258+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ozdmb"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-01-un-terremoto-sacude-la-región-de-sw-oued-nja-con-magnitud-48",
     "title": "Un terremoto sacude la región de SW OUED NJA con magnitud 4.8",
     "lead": "Un movimiento sísmico de consideracion se ha registrado en la zona",
@@ -2795,19 +2808,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16204"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-25-nueva-regulación-laboral-para-artistas-y-técnicos-de-las-artes-escénicas-audiovi",
-    "title": "Nueva regulación laboral para artistas y técnicos de las artes escénicas, audiovisuales y musicales",
-    "lead": "El Gobierno ha establecido un nuevo marco normativo para regular la relación laboral de personas artistas y técnicos que trabajan en el sector",
-    "section": "Cultura",
-    "date": "2026-07-25T06:34:01.535571+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16173"
       }
     ]
   }
