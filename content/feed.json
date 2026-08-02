@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-02-terremoto-de-magnitud-39-sacude-la-región-de-librilla",
+    "title": "Terremoto de magnitud 3.9 sacude la región de Librilla",
+    "lead": "Un terremoto ha afectado la zona noroeste de Librilla, según informes oficiales",
+    "section": "Sucesos",
+    "date": "2026-08-02T10:12:33.431417+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026paacq"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-02-un-terremoto-de-magnitud-28-sacude-la-región-de-s-oloron-ste-marie-en-francia",
     "title": "Un terremoto de magnitud 2.8 sacude la región de S Oloron Ste Marie en Francia",
     "lead": "Un movimiento sísmico ha sido registrado en la madrugada del 2 de agosto en el sur de Francia",
@@ -2731,19 +2744,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16228"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-25-nuevos-precios-para-labores-de-tabaco-en-expendedurías-de-tabaco-y-timbre",
-    "title": "Nuevos precios para labores de tabaco en Expendedurías de Tabaco y Timbre",
-    "lead": "Se han publicado los precios actualizados de venta al público para ciertas labores de tabaco en establecimientos autorizados",
-    "section": "Economia",
-    "date": "2026-07-25T06:34:18.667765+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16175"
       }
     ]
   }
