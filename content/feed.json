@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-02-un-terremoto-de-magnitud-28-sacude-la-región-de-s-oloron-ste-marie-en-francia",
+    "title": "Un terremoto de magnitud 2.8 sacude la región de S Oloron Ste Marie en Francia",
+    "lead": "Un movimiento sísmico ha sido registrado en la madrugada del 2 de agosto en el sur de Francia",
+    "section": " Internacional",
+    "date": "2026-08-02T02:23:01.233233+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ozgnc"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-01-un-terremoto-de-magnitud-39-sacude-el-suroeste-del-cabo-de-san-vicente",
     "title": "Un terremoto de magnitud 3.9 sacude el suroeste del Cabo de San Vicente",
     "lead": "Un movimiento sísmico ha sido registrado en la zona del Cabo de San Vicente, según informes oficiales",
@@ -2731,83 +2744,6 @@
       {
         "name": "BOE — Disposiciones generales",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16175"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-25-nuevas-convocatorias-y-convenios-publicados-en-el-boletín-oficial-del-estado",
-    "title": "Nuevas convocatorias y convenios publicados en el Boletín Oficial del Estado",
-    "lead": "El Boletín Oficial del Estado ha publicado varias resoluciones y convenios de interés nacional, incluyendo la creación de una sede desconcentrada de la Agencia Estatal de Administración Tributaria en Álava y diversos convenios para la celebración de la Fiesta Nacional de España en el exterior.",
-    "section": "Nacional",
-    "date": "2026-07-25T06:34:14.209050+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16174"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16207"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16208"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16209"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16211"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16212"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16213"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16215"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16216"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16218"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16229"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16231"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16199"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16200"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16201"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16202"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16204"
       }
     ]
   }
