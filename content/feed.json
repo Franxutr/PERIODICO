@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-02-un-terremoto-de-magnitud-29-sacude-la-zona-de-cabo-de-san-vicente",
+    "title": "Un terremoto de magnitud 2.9 sacude la zona de Cabo de San Vicente",
+    "lead": "Un movimiento sísmico de baja intensidad ha sido registrado en la región",
+    "section": "Sucesos",
+    "date": "2026-08-02T22:14:37.394734+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pawrc"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-02-terremoto-de-magnitud-39-sacude-la-región-de-librilla",
     "title": "Terremoto de magnitud 3.9 sacude la región de Librilla",
     "lead": "Un terremoto ha afectado la zona noroeste de Librilla, según informes oficiales",
@@ -2715,35 +2728,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16230"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-25-recursos-contra-notas-de-calificación-de-registros-de-la-propiedad",
-    "title": "Recursos contra notas de calificación de registros de la propiedad",
-    "lead": "La Dirección General de Seguridad Jurídica y Fe Pública resuelve varios recursos relacionados con la inscripción de escrituras y representaciones gráficas en registros de la propiedad.",
-    "section": "Tribunales",
-    "date": "2026-07-25T06:34:33.361673+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16222"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16225"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16226"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16227"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16228"
       }
     ]
   }
