@@ -1,5 +1,408 @@
 [
   {
+    "slug": "2026-08-06-el-banco-de-españa-publica-los-tipos-de-cambio-oficiales-del-euro",
+    "title": "El Banco de España publica los tipos de cambio oficiales del euro",
+    "lead": "El Banco de España ha hecho pública la actualización de los tipos de cambio oficiales del euro para el día 5 de agosto de 2026",
+    "section": "Economia",
+    "date": "2026-08-06T08:08:42.934957+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17179"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-españa-y-extremadura-colaboran-en-programas-formativos-para-profesionales-de-der",
+    "title": "España y Extremadura colaboran en programas formativos para profesionales de derechos sociales",
+    "lead": "El Ministerio de Derechos Sociales, Consumo y Agenda 2030 ha publicado un convenio con la Comunidad Autónoma de Extremadura para impulsar la formación de profesionales en el nuevo modelo de cuidados y apoyos",
+    "section": "Nacional",
+    "date": "2026-08-06T08:08:37.928536+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17177"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-se-publica-el-convenio-colectivo-de-fujitsu-technology-solutions-sau",
+    "title": "Se publica el Convenio colectivo de Fujitsu Technology Solutions, S.A.U.",
+    "lead": "La Dirección General de Trabajo ha registrado y publicado el Convenio colectivo de la empresa Fujitsu Technology Solutions, S.A.U.",
+    "section": "Economia",
+    "date": "2026-08-06T08:08:12.123681+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17164"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-convenio-para-centros-de-referencia-nacional-en-castilla-y-león-y-convocatorias-",
+    "title": "Convenio para centros de referencia nacional en Castilla y León y convocatorias de empleo en Ayuntamientos",
+    "lead": "La Secretaría General Técnica ha publicado un convenio con la Comunidad de Castilla y León para designar centros de referencia nacional, mientras que el Ayuntamiento de Alfajarín y Vinaròs han convocado plazas de empleo.",
+    "section": "Nacional",
+    "date": "2026-08-06T08:08:06.598202+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17162"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17099"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17116"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-la-marina-mercante-aprueba-dos-nuevos-buques-escuela-y-convoca-pruebas-para-pres",
+    "title": "La Marina Mercante aprueba dos nuevos buques escuela y convoca pruebas para prestar servicios portuarios",
+    "lead": "La Dirección General de la Marina Mercante ha aprobado recientemente dos nuevos buques escuela y ha convocado pruebas para el reconocimiento de la capacitación profesional en servicios portuarios",
+    "section": "Nacional",
+    "date": "2026-08-06T08:07:55.227321+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17159"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17160"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17161"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-se-publica-convenio-para-mejorar-la-movilidad-en-el-corredor-de-la-n-ii-y-la-c-3",
+    "title": "Se publica convenio para mejorar la movilidad en el corredor de la N-II y la C-32 en Cataluña",
+    "lead": "La Dirección General de Carreteras y la Generalitat de Catalunya han firmado un acuerdo para ejecutar actuaciones de mejora de la movilidad en el entorno del Maresme",
+    "section": "Nacional",
+    "date": "2026-08-06T08:07:46.124312+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17156"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-resoluciones-de-la-dirección-general-de-seguridad-jurídica-y-fe-pública",
+    "title": "Resoluciones de la Dirección General de Seguridad Jurídica y Fe Pública",
+    "lead": "La Dirección General de Seguridad Jurídica y Fe Pública ha emitido varias resoluciones en relación con recursos interpuestos contra calificaciones y notas de registradores de la propiedad",
+    "section": "Tribunales",
+    "date": "2026-08-06T08:07:40.579906+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17134"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17136"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17142"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17143"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17145"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17149"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17151"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-convocatorias-y-convenios-públicos-destacados-en-el-boletín-oficial-del-estado",
+    "title": "Convocatorias y convenios públicos destacados en el Boletín Oficial del Estado",
+    "lead": "El Boletín Oficial del Estado publica diversas resoluciones y convocatorias de interés público, incluyendo convenios para el desarrollo de proyectos y la protección del medio ambiente, así como convocatorias para la provisión de plazas en administraciones locales.",
+    "section": "Nacional",
+    "date": "2026-08-06T08:07:22.945283+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17123"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17124"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17157"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17158"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17163"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17165"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17167"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17168"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17169"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17186"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17097"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17098"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17100"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17105"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17112"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17113"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17115"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17117"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-tribunal-supremo-asigna-competencias-y-el-consejo-general-del-poder-judicial-pub",
+    "title": "Tribunal Supremo asigna competencias y el Consejo General del Poder Judicial publica acuerdos",
+    "lead": "El Consejo General del Poder Judicial ha publicado varios acuerdos relacionados con la asignación de competencias en el Tribunal Supremo y otros asuntos judiciales",
+    "section": "Tribunales",
+    "date": "2026-08-06T08:06:49.072174+00:00",
+    "sources": [
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17121"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17122"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17125"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17126"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17127"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17133"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17135"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17137"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17138"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17139"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17140"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17141"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17144"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17146"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17147"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17148"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17150"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17152"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17153"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17154"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17155"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17178"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17180"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17089"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17090"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17093"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17094"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-el-ministerio-de-economía-acuerda-la-emisión-de-monedas-de-colección-de-oro-sobr",
+    "title": "El Ministerio de Economía acuerda la emisión de monedas de colección de oro sobre el Cerdo Ibérico",
+    "lead": "Se trata de una serie de monedas de una onza de oro que conmemoran al Cerdo Ibérico, según lo dispuesto en la Orden ECM/825/2026",
+    "section": "Economia",
+    "date": "2026-08-06T08:06:22.331374+00:00",
+    "sources": [
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17076"
+      }
+    ]
+  },
+  {
+    "slug": "2026-08-06-el-boe-publica-diversas-resoluciones-y-convocatorias-oficiales",
+    "title": "El BOE publica diversas resoluciones y convocatorias oficiales",
+    "lead": "El Boletín Oficial del Estado ha hecho públicas varias resoluciones y convocatorias en el ámbito nacional, incluyendo la inscripción de fundaciones y la modificación de planes de estudios en universidades",
+    "section": "Nacional",
+    "date": "2026-08-06T08:06:17.672490+00:00",
+    "sources": [
+      {
+        "name": "BOE — Disposiciones generales",
+        "url": "https://www.boe.es/boe/dias/2026/08/06/"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17128"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17129"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17130"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17131"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17132"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17166"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17176"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17181"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17183"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17184"
+      },
+      {
+        "name": "BOE — Otras disposiciones",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17185"
+      },
+      {
+        "name": "BOE — Oposiciones y concursos",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17118"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-06-terremoto-de-magnitud-30-se-registra-en-azores-cabo-de-san-vicente",
     "title": "Terremoto de magnitud 3.0 se registra en Azores-Cabo de San Vicente",
     "lead": "Un terremoto ha sacudido la región de Azores-Cabo de San Vicente, según informes oficiales",
@@ -2581,385 +2984,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16510"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-el-consejo-general-del-poder-judicial-publica-varios-acuerdos-y-el-boe-anuncia-i",
-    "title": "El Consejo General del Poder Judicial publica varios acuerdos y el BOE anuncia indultos y convenios",
-    "lead": "El Consejo General del Poder Judicial ha publicado recientemente varios acuerdos relacionados con la Audiencia Nacional y el Tribunal Supremo, mientras que el Boletín Oficial del Estado (BOE) ha anunciado indultos y convenios en diferentes áreas",
-    "section": "Nacional",
-    "date": "2026-07-29T07:27:29.220364+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16511"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16512"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16513"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16514"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16518"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16519"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16522"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16523"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16524"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16525"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16527"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16479"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16482"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16483"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-españa-emitirá-monedas-de-colección-con-motivo-de-la-copa-mundial-de-la-fifa-202",
-    "title": "España emitirá monedas de colección con motivo de la Copa Mundial de la FIFA 2026",
-    "lead": "El Ministerio de Economía, Comercio y Empresa ha acordado la emisión de monedas de colección para conmemorar el evento deportivo, mientras que el Banco de España publica los cambios oficiales del euro para el día 28 de julio de 2026.",
-    "section": "Economia",
-    "date": "2026-07-29T07:27:16.238111+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16440"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16537"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-declaran-el-cese-de-una-orden-de-emergencia-nacional-en-una-provincia-española",
-    "title": "Declaran el cese de una orden de emergencia nacional en una provincia española",
-    "lead": "Según el Ministerio del Interior, se ha levantado la declaración de emergencia en una zona específica",
-    "section": "Nacional",
-    "date": "2026-07-29T07:27:12.003528+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16439"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-nuevas-convocatorias-de-empleo-en-varias-administraciones-locales",
-    "title": "Nuevas convocatorias de empleo en varias administraciones locales",
-    "lead": "Varias administraciones locales han publicado convocatorias para cubrir plazas en diferentes categorías, según publicaciones en el Boletín Oficial del Estado.",
-    "section": "Nacional",
-    "date": "2026-07-29T07:27:08.022660+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16438"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16441"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16517"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16532"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16484"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16485"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16487"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16488"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16489"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16490"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16491"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16492"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16497"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16499"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16503"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16507"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16509"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-nuevas-disposiciones-y-resoluciones-publicadas-en-el-boletín-oficial-del-estado",
-    "title": "Nuevas disposiciones y resoluciones publicadas en el Boletín Oficial del Estado",
-    "lead": "El Boletín Oficial del Estado ha publicado varias disposiciones y resoluciones en los últimos días, abarcando temas como indultos, convenios y modificaciones de planes de estudios universitarios.",
-    "section": "Nacional",
-    "date": "2026-07-29T07:27:03.089244+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/boe/dias/2026/07/29/"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16521"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16528"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16538"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16539"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-un-terremoto-sacude-la-región-de-cabo-de-san-vicente",
-    "title": "Un terremoto sacude la región de Cabo de San Vicente",
-    "lead": "Un movimiento sísmico de magnitud 3.1 se registró en la región de Cabo de San Vicente, según informes oficiales.",
-    "section": "Sucesos",
-    "date": "2026-07-29T04:34:53.123668+00:00",
-    "sources": [
-      {
-        "name": "IGN — Informacion de terremotos",
-        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026oscqt"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-29-un-terremoto-sacude-la-región-de-cabo-de-san-vicente",
-    "title": "Un terremoto sacude la región de Cabo de San Vicente",
-    "lead": "Un movimiento telúrico de magnitud moderada se registró en la zona sur-oeste de Cabo de San Vicente",
-    "section": "Sucesos",
-    "date": "2026-07-29T01:06:14.107488+00:00",
-    "sources": [
-      {
-        "name": "IGN — Informacion de terremotos",
-        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026orxbr"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-28-convocatorias-para-proveer-plazas-en-diferentes-ayuntamientos",
-    "title": "Convocatorias para proveer plazas en diferentes ayuntamientos",
-    "lead": "Varios ayuntamientos han publicado convocatorias para cubrir vacantes en sus plantillas",
-    "section": "Nacional",
-    "date": "2026-07-28T07:24:29.320891+00:00",
-    "sources": [
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16396"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16401"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16404"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16407"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16413"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-28-nuevas-ofertas-de-empleo-público-en-diferentes-administraciones",
-    "title": "Nuevas ofertas de empleo público en diferentes administraciones",
-    "lead": "Varías administraciones públicas han publicado convocatorias para cubrir plazas en diferentes categorías y localizaciones",
-    "section": "Sociedad",
-    "date": "2026-07-28T07:24:18.513740+00:00",
-    "sources": [
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16386"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16387"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16389"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16390"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16391"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16392"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16393"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16394"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16395"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16397"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16398"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16399"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16402"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16403"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16405"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16408"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16412"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-28-universidades-españolas-anuncian-convocatorias-y-modificaciones-académicas",
-    "title": "Universidades españolas anuncian convocatorias y modificaciones académicas",
-    "lead": "Recientemente, se han publicado varias resoluciones importantes relacionadas con la educación superior en España, destacando convocatorias para acceder a plazas docentes y ajustes en planes de estudio",
-    "section": "Sociedad",
-    "date": "2026-07-28T07:23:46.275335+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16437"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16414"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16415"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-28-el-ministerio-de-derechos-sociales-y-el-de-inclusión-seguridad-social-y-migracio",
-    "title": "El Ministerio de Derechos Sociales y el de Inclusión, Seguridad Social y Migraciones anuncian importantes convenios y premios",
-    "lead": "Se han publicado varios convenios y una resolución sobre los Premios Nacionales de Discapacidad Reina Letizia en el Boletín Oficial del Estado",
-    "section": "Sociedad",
-    "date": "2026-07-28T07:23:37.390421+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16429"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16432"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16433"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16435"
       }
     ]
   }
