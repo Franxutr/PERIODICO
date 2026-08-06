@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-06-terremoto-de-magnitud-30-se-registra-en-azores-cabo-de-san-vicente",
+    "title": "Terremoto de magnitud 3.0 se registra en Azores-Cabo de San Vicente",
+    "lead": "Un terremoto ha sacudido la región de Azores-Cabo de San Vicente, según informes oficiales",
+    "section": "Tiempo",
+    "date": "2026-08-06T02:14:59.479083+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pgqew"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-05-terremoto-de-magnitud-28-sacude-la-zona-suroeste-del-cabo-de-san-vicente",
     "title": "Terremoto de magnitud 2.8 sacude la zona suroeste del Cabo de San Vicente",
     "lead": "Un terremoto de baja intensidad se ha registrado en la región del Cabo de San Vicente, según informes oficiales",
@@ -2947,23 +2960,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16435"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-28-convenios-para-impulsar-la-investigación-y-la-divulgación-científica-en-españa",
-    "title": "Convenios para impulsar la investigación y la divulgación científica en España",
-    "lead": "El Gobierno ha publicado recientemente dos convenios que buscan fortalecer la investigación y la divulgación científica en diferentes ámbitos",
-    "section": "Ciencia",
-    "date": "2026-07-28T07:23:24.989546+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16428"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16430"
       }
     ]
   }
