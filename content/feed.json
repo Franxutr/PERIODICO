@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-09-un-terremoto-de-magnitud-26-se-registra-en-sagres-portugal",
+    "title": "Un terremoto de magnitud 2.6 se registra en Sagres, Portugal",
+    "lead": "Un movimiento sísmico de baja intensidad ha sido detectado en la región de Sagres, en el suroeste de Portugal",
+    "section": "Sucesos",
+    "date": "2026-08-09T23:50:42.091538+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pnuws"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-09-un-terremoto-de-magnitud-34-sacude-la-región-de-bouira-en-argelia",
     "title": "Un terremoto de magnitud 3,4 sacude la región de Bouira en Argelia",
     "lead": "Un movimiento telúrico ha afectado la zona norte de Bouira en Argelia, según registros oficiales",
@@ -2971,19 +2984,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16748"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-31-finaliza-la-emergencia-de-interés-nacional-en-madrid-y-ávila",
-    "title": "Finaliza la emergencia de interés nacional en Madrid y Ávila",
-    "lead": "El Ministerio del Interior ha dispuesto el cese de los efectos de la orden que declaraba la emergencia en estos territorios debido a incendios forestales",
-    "section": "Nacional",
-    "date": "2026-07-31T06:34:37.129865+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16657"
       }
     ]
   }
