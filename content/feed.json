@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-09-un-terremoto-de-magnitud-34-sacude-la-región-de-bouira-en-argelia",
+    "title": "Un terremoto de magnitud 3,4 sacude la región de Bouira en Argelia",
+    "lead": "Un movimiento telúrico ha afectado la zona norte de Bouira en Argelia, según registros oficiales",
+    "section": "Sucesos",
+    "date": "2026-08-09T10:09:39.277710+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pmsvg"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-09-españa-restablece-controles-fronterizos-con-italia",
     "title": "España restablece controles fronterizos con Italia",
     "lead": "El Ministerio del Interior ha decidido restablecer temporalmente los controles fronterizos en las fronteras interiores aéreas y marítimas españolas con respecto a los vuelos y enlaces marítimos de pasajeros procedentes de la República Italiana.",
@@ -2971,47 +2984,6 @@
       {
         "name": "BOE — Disposiciones generales",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16657"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-31-nuevas-disposiciones-y-convocatorias-publicadas-en-el-boletín-oficial-del-estado",
-    "title": "Nuevas disposiciones y convocatorias publicadas en el Boletín Oficial del Estado",
-    "lead": "Se han publicado varias órdenes y resoluciones que modifican y establecen nuevas regulaciones en diferentes ámbitos, incluyendo defensa, transportes y justicia.",
-    "section": "Nacional",
-    "date": "2026-07-31T06:34:32.546226+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16655"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16658"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16665"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16729"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16689"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16690"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16691"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16692"
       }
     ]
   }
