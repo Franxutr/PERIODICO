@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-10-terremoto-de-magnitud-35-sacude-la-región-de-odemira-en-portugal",
+    "title": "Terremoto de magnitud 3.5 sacude la región de Odemira en Portugal",
+    "lead": "Un movimiento sísmico ha sido registrado en la región de Odemira, en el este de Portugal, según fuentes oficiales",
+    "section": "Sucesos",
+    "date": "2026-08-10T03:21:52.692061+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026poarh"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-09-un-terremoto-de-magnitud-26-se-registra-en-sagres-portugal",
     "title": "Un terremoto de magnitud 2.6 se registra en Sagres, Portugal",
     "lead": "Un movimiento sísmico de baja intensidad ha sido detectado en la región de Sagres, en el suroeste de Portugal",
@@ -2943,47 +2956,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16728"
-      }
-    ]
-  },
-  {
-    "slug": "2026-07-31-avances-en-educación-y-tecnología-españa-impulsa-la-formación-y-la-innovación",
-    "title": "Avances en educación y tecnología: España impulsa la formación y la innovación",
-    "lead": "El Ministerio de Educación, Formación Profesional y Deportes y el Ministerio para la Transformación Digital y la Función Pública han publicado varias resoluciones y convenios para fomentar la educación y la tecnología en el país.",
-    "section": "Ciencia",
-    "date": "2026-07-31T06:34:51.646319+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16659"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16664"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16722"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16723"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16724"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16725"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16726"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16748"
       }
     ]
   }
