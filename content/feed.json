@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-10-un-terremoto-sacude-la-región-de-cadaval-en-portugal",
+    "title": "Un terremoto sacude la región de Cadaval en Portugal",
+    "lead": "Un movimiento sísmico de magnitud 3.5 se registró en la zona de Cadaval, según informó el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-08-10T12:03:25.169022+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026potgo"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-10-el-consejo-de-seguridad-nuclear-y-el-gobierno-de-navarra-firman-un-convenio-para",
     "title": "El Consejo de Seguridad Nuclear y el Gobierno de Navarra firman un convenio para hacer frente a emergencias radiológicas",
     "lead": "El acuerdo busca mejorar la planificación, preparación y respuesta ante situaciones de emergencia radiológica en la región",
@@ -3147,19 +3160,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16774"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-01-nuevos-precios-de-venta-de-tabaco-en-expendedurías-de-tabaco-y-timbre",
-    "title": "Nuevos precios de venta de tabaco en Expendedurías de Tabaco y Timbre",
-    "lead": "La Presidencia del Comisionado para el Mercado de Tabacos ha hecho pública la actualización de los precios de venta al público de ciertos productos de tabaco",
-    "section": "Economia",
-    "date": "2026-08-01T06:17:57.282372+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16756"
       }
     ]
   }
