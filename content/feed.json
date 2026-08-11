@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-11-terremoto-de-magnitud-27-sacude-la-zona-de-baños-de-la-encina",
+    "title": "Terremoto de magnitud 2.7 sacude la zona de Baños de la Encina",
+    "lead": "Un terremoto ha afectado la región de Baños de la Encina, según informes oficiales",
+    "section": "Sucesos",
+    "date": "2026-08-11T01:19:57.809203+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026ppruf"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-10-un-terremoto-sacude-la-región-de-cadaval-en-portugal",
     "title": "Un terremoto sacude la región de Cadaval en Portugal",
     "lead": "Un movimiento sísmico de magnitud 3.5 se registró en la zona de Cadaval, según informó el Instituto Geográfico Nacional",
@@ -3087,79 +3100,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16797"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-01-nuevas-disposiciones-y-convocatorias-en-el-boletín-oficial-del-estado",
-    "title": "Nuevas disposiciones y convocatorias en el Boletín Oficial del Estado",
-    "lead": "El Boletín Oficial del Estado ha publicado varias resoluciones y órdenes que afectan a diferentes ministerios y sectores, incluyendo la creación de un comité de seguridad en el Ministerio de Trabajo y Economía Social y la aprobación de la política de seguridad de la información en la administración digital del mismo ministerio.",
-    "section": "Nacional",
-    "date": "2026-08-01T06:18:01.888533+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16757"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16809"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16810"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16812"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16816"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16821"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16823"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16836"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16837"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16839"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16769"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16770"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16771"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16772"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16773"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16774"
       }
     ]
   }
