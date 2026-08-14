@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-14-un-terremoto-de-magnitud-48-sacude-la-zona-de-alhendín",
+    "title": "Un terremoto de magnitud 4.8 sacude la zona de Alhendín",
+    "lead": "Un movimiento sísmico ha afectado la región de Alhendín, según informaciones oficiales",
+    "section": "Sucesos",
+    "date": "2026-08-14T23:18:42.401178+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pwyek"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-14-dos-terremotos-sacuden-el-país",
     "title": "Dos terremotos sacuden el país",
     "lead": "Según el Instituto Geográfico Nacional, se han registrado dos movimientos sísmicos en diferentes zonas del país",
@@ -3071,19 +3084,6 @@
       {
         "name": "IGN — Informacion de terremotos",
         "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pftkk"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-05-corrección-de-errores-en-el-reglamento-de-la-unión-europea-sobre-medicamentos",
-    "title": "Corrección de errores en el Reglamento de la Unión Europea sobre medicamentos",
-    "lead": "La Unión Europea ha publicado una corrección de errores en el Reglamento que modifica las normas sobre autorización y control de medicamentos de uso humano y veterinario",
-    "section": "Salud",
-    "date": "2026-08-05T09:10:17.644344+00:00",
-    "sources": [
-      {
-        "name": "BOE — Legislacion: Sanidad",
-        "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2026-81266"
       }
     ]
   }
