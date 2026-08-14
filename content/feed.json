@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-14-un-terremoto-de-magnitud-26-se-registra-en-el-suroeste-del-cabo-de-san-vicente",
+    "title": "Un terremoto de magnitud 2,6 se registra en el suroeste del Cabo de San Vicente",
+    "lead": "Un movimiento sísmico de baja intensidad ha sacudido la zona suroeste del Cabo de San Vicente, según informa el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-08-14T14:01:13.074648+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pwczs"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-14-convocatorias-para-proveer-plazas-en-verschiedene-ayuntamientos-españoles",
     "title": "Convocatorias para proveer plazas en verschiedene ayuntamientos españoles",
     "lead": "Los ayuntamientos de Santa Cruz de Tenerife, Yuncos, Bonete, Plasencia, Celrà, Berja, Tolosa y Santa Eulària des Riu han publicado convocatorias para cubrir vacantes en sus plantillas",
@@ -3103,31 +3116,6 @@
       {
         "name": "BOE — Otras disposiciones",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17075"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-05-el-banco-de-españa-anuncia-varias-resoluciones-financieras",
-    "title": "El Banco de España anuncia varias resoluciones financieras",
-    "lead": "El Banco de España ha publicado varias resoluciones importantes relacionadas con entidades de crédito y tipos de interés",
-    "section": "Economia",
-    "date": "2026-08-05T06:12:58.715973+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17067"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17068"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17069"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17070"
       }
     ]
   }
