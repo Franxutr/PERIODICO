@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-15-un-terremoto-de-magnitud-33-se-registra-en-la-región-de-granada",
+    "title": "Un terremoto de magnitud 3.3 se registra en la región de Granada",
+    "lead": "Un movimiento sísmico ha sacudido la zona de Gójar en Granada, según informa el IGN",
+    "section": "Sucesos",
+    "date": "2026-08-15T05:01:38.250224+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pxjbc"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-15-dos-terremotos-sacuden-la-región-de-granada-en-menos-de-una-hora",
     "title": "Dos terremotos sacuden la región de Granada en menos de una hora",
     "lead": "La zona noreste de Villa de Otura y Gójar en la provincia de Granada han experimentado dos movimientos sísmicos en un breve lapso de tiempo",
@@ -3075,19 +3088,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17118"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-06-terremoto-de-magnitud-30-se-registra-en-azores-cabo-de-san-vicente",
-    "title": "Terremoto de magnitud 3.0 se registra en Azores-Cabo de San Vicente",
-    "lead": "Un terremoto ha sacudido la región de Azores-Cabo de San Vicente, según informes oficiales",
-    "section": "Tiempo",
-    "date": "2026-08-06T02:14:59.479083+00:00",
-    "sources": [
-      {
-        "name": "IGN — Informacion de terremotos",
-        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pgqew"
       }
     ]
   }
