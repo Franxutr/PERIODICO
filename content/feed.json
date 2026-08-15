@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-15-se-registra-un-terremoto-de-magnitud-30-en-la-provincia-de-granada",
+    "title": "Se registra un terremoto de magnitud 3.0 en la provincia de Granada",
+    "lead": "Un sismo de intensidad moderada ha sacudido la zona de Gójar, según informa el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-08-15T07:47:41.070847+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pxnug"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-15-el-banco-de-españa-publica-los-cambios-oficiales-del-euro-para-el-día-14-de-agos",
     "title": "El Banco de España publica los cambios oficiales del euro para el día 14 de agosto de 2026",
     "lead": "Los cambios del euro correspondientes al día 14 de agosto de 2026 han sido publicados por el Banco de España, según lo dispuesto en la Ley 46/1998, de 17 de diciembre",
@@ -2971,43 +2984,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17229"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-07-nuevas-leyes-y-convenios-en-españa",
-    "title": "Nuevas leyes y convenios en España",
-    "lead": "Recientemente, se han publicado varias leyes y convenios en el Boletín Oficial del Estado (BOE) que afectan a diferentes áreas de la sociedad española.",
-    "section": "Nacional",
-    "date": "2026-08-07T06:53:03.024285+00:00",
-    "sources": [
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17187"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17188"
-      },
-      {
-        "name": "BOE — Disposiciones generales",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17189"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17237"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17238"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17208"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17221"
       }
     ]
   }
