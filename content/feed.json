@@ -1,5 +1,18 @@
 [
   {
+    "slug": "2026-08-16-un-terremoto-de-magnitud-28-sacude-la-región-de-ogíjares",
+    "title": "Un terremoto de magnitud 2.8 sacude la región de Ogíjares",
+    "lead": "Un movimiento sísmico se ha registrado en la zona de Ogíjares, según informa el Instituto Geográfico Nacional",
+    "section": "Sucesos",
+    "date": "2026-08-16T04:55:02.918414+00:00",
+    "sources": [
+      {
+        "name": "IGN — Informacion de terremotos",
+        "url": "http://www.ign.es/web/ign/portal/sis-catalogo-terremotos/-/catalogo-terremotos/detailTerremoto?evid=es2026pzeil"
+      }
+    ]
+  },
+  {
     "slug": "2026-08-16-terremoto-de-magnitud-31-en-la-región-de-armilla",
     "title": "Terremoto de magnitud 3.1 en la región de Armilla",
     "lead": "Un terremoto ha sacudido la zona norte de Armilla, según informes oficiales",
@@ -2855,71 +2868,6 @@
       {
         "name": "BOE — Oposiciones y concursos",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17216"
-      }
-    ]
-  },
-  {
-    "slug": "2026-08-07-condecoraciones-y-convocatorias-en-el-boe",
-    "title": "Condecoraciones y convocatorias en el BOE",
-    "lead": "El Boletín Oficial del Estado publica varias resoluciones relacionadas con condecoraciones y convocatorias para proveer puestos de trabajo",
-    "section": "Nacional",
-    "date": "2026-08-07T06:54:51.061881+00:00",
-    "sources": [
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17265"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17266"
-      },
-      {
-        "name": "BOE — Otras disposiciones",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17267"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17199"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17200"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17202"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17203"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17206"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17207"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17210"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17214"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17219"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17222"
-      },
-      {
-        "name": "BOE — Oposiciones y concursos",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17236"
       }
     ]
   }
